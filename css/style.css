@@ -1,0 +1,9 @@
+img, video, audio, iframe, table, form {
+  width: 100%;
+  max-width: 100%;
+}
+
+.row {
+  margin-bottom: 20px;
+
+}
